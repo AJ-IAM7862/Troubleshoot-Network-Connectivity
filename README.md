@@ -9,11 +9,9 @@ machine.<br />
 - Windows 11
 <h2>Ping Command</h2>
 <p>
-<img width="774" height="764" alt="image"
-src="https://github.com/user-attachments/assets/c239f3bb-b3e0-4344-abf5-7d3b4d53492b" />
+<img width="915" height="493" alt="CP 1" src="https://github.com/user-attachments/assets/84f90918-e25a-4f25-8996-f3c7862adc7d" />
 </p>
 <p>
 Tested for computer connectivity and network connectivity of Microsoft.
 </p>
 <br />
-
